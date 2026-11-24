@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**robaisha153/robaisha153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Introducing Myself
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0063105c-ef01-4670-a978-f5fca7a207c8" width="100%" alt="Robaisha Jabbar - Data Analyst">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Robaisha, a Data Analyst with a Computer Science background, skilled in SQL, Python, Excel, and Power BI, passionate about transforming data into meaningful insights.
+
+## 📊 Projects
+
+Explore my data analytics projects and SQL case studies.
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** SQL, Python
+- **Databases:** MySQL, PostgreSQL, Google BigQuery
+- **Visualization:** Power BI, Tableau, Looker Studio
+- **Spreadsheets:** Microsoft Excel, Google Sheets
+
+## 👋🏻 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/robaisha-jabbar-b577501bb)
+- [GitHub](https://www.upwork.com/freelancers/~0131717db108df9235?mp_source=share)
