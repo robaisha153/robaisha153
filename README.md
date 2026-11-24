@@ -13,7 +13,7 @@ Explore my data analytics projects and SQL case studies.
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** SQL, Python
+- **Languages:** SQL, Python, R
 - **Databases:** MySQL, PostgreSQL, Google BigQuery
 - **Visualization:** Power BI, Tableau, Looker Studio
 - **Spreadsheets:** Microsoft Excel, Google Sheets
