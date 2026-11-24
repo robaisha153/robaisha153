@@ -17,8 +17,9 @@ Explore my data analytics projects and SQL case studies.
 - **Databases:** MySQL, PostgreSQL, Google BigQuery
 - **Visualization:** Power BI, Tableau, Looker Studio
 - **Spreadsheets:** Microsoft Excel, Google Sheets
-
+- 
 ## 👋🏻 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/robaisha-jabbar-b577501bb)
-- [GitHub](https://www.upwork.com/freelancers/~0131717db108df9235?mp_source=share)
+- [LinkedIn](https://www.linkedin.com/in/robaisha-jabbar-b577501bb/)
+- [Upwork](https://www.upwork.com/freelancers/~0131717db108df9235)
+
